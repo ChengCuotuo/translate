@@ -3,7 +3,8 @@ package youdao.translate;
 /**
  * Created by lei02 on 2019/4/11.
  */
-import java.util.*;
+
+import java.util.LinkedHashMap;
 
 public class YoudaoTranslate {
     private static String APP_KEY = "7c74fcd10a1ad581";

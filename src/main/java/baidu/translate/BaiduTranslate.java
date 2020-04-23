@@ -1,7 +1,6 @@
 package baidu.translate;
 
 import java.util.LinkedHashMap;
-import java.util.Map;
 
 /**
  * Created by lei02 on 2019/4/11.

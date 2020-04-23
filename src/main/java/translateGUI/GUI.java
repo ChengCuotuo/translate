@@ -3,17 +3,17 @@ package translateGUI;
 /**
  * Created by lei02 on 2019/4/10.
  */
+
 import baidu.translate.BaiduTranslate;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
-import javafx.scene.text.Font;
-import javafx.stage.Stage;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-
+import javafx.scene.text.Font;
+import javafx.stage.Stage;
 import youdao.translate.YoudaoTranslate;
 
 import java.util.LinkedHashMap;
